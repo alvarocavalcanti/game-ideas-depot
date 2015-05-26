@@ -1,4 +1,4 @@
-# Game Design Depot
+# Game Ideas Depot
 
 ## What's This?
 
