@@ -16,7 +16,7 @@ Well, you're free to do all of the following:
 
 1. Fork this repo and contribute to my ideas. Make them our ideas!
 2. Try to implement any of these ideas (don't forget to fork this repo and add your project under the idea's readme file, as well as mentioning this repo somewhere in your game)
-3. Add your own original idea so other people can contribute!
+3. Add your own original idea so other people can contribute! Make sure to use our [template](BASE_GDD.md)
 
 ## Final Words
 
