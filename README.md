@@ -27,4 +27,4 @@ If you need any guidance, here are some awesome links:
 - [Finishing a Game](http://makegames.tumblr.com/post/1136623767/finishing-a-game): Invaluable tips on how to actually **finish** building your game. Go read it
 
 
-#### License: [CC0 1.0 Universal](LICENSE.md)
+#### License: [CC0 1.0 Universal](LICENSE)
