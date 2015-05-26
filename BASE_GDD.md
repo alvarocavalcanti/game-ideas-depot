@@ -15,3 +15,7 @@
 ## Art Direction
 
 *Do you have a clear goal for the art? What is it?*
+
+## Implemented Games
+
+1. *Add here the games that implemented this concept*
