@@ -2,16 +2,16 @@
 
 ## Key Thought
 
-**What's your base idea? What are you trying to create? What do you want the player to feel?**
+*What's your base idea? What are you trying to create? What do you want the player to feel?*
 
 ## Core Mechanics
 
-**What will the players be doing most of the time**
+*What will the players be doing most of the time*
 
 ## Level Design
 
-**What shall the levels look and feel?**
+*What shall the levels look and feel?*
 
 ## Art Direction
 
-**Do you have a clear goal for the art? What is it?**
+*Do you have a clear goal for the art? What is it?*
