@@ -28,5 +28,8 @@ If you need any guidance, here are some awesome links:
 - [Game Balance Concepts](https://gamebalanceconcepts.wordpress.com/): Another free online course by Ian Schreiber. This time it's all about game balance. What was a single-day subject in the previous course became a fully-fledged course. Good stuff
 - [Finishing a Game](http://makegames.tumblr.com/post/1136623767/finishing-a-game): Invaluable tips on how to actually **finish** building your game. Go read it
 
+## Ideas So Far
+
+1. [Abduction Academy](ABDUCTION_ACADEMY.md)
 
 #### License: [CC0 1.0 Universal](LICENSE)
