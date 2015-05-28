@@ -10,6 +10,8 @@ Well, for starters, ideas are like caterpillar eggs. [A thousand are laid, a hun
 
 In the end I would love to see where this goes. And I'm sure anywhere it goes would be fine.
 
+Also, this initiative isn't anything new in the gamedev community. The greatest example I can recall, and was my **true inspiration**, ais the [Game Prototype Challenge](http://lunar.lostgarden.com/labels/prototyping%20challenge.html). A series of posts from the **remarkable** [Lost Garden](http://www.lostgarden.com/) blog, by Daniel Cook. Go check it out. Oh, and along with the challenges DanC also has a lot of [free game graphics](http://lunar.lostgarden.com/labels/free%20game%20graphics.html) posts.
+
 ## So, What Can I Do?
 
 Well, you're free to do all of the following:
