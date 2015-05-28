@@ -16,6 +16,10 @@
 
 *Do you have a clear goal for the art? What is it?*
 
+## Implemented Prototypes
+
+1. *Add any prototype you might already have*
+
 ## Implemented Games
 
 1. *Add here the games that implemented this concept*
