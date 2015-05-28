@@ -42,8 +42,8 @@ Nothing defined yet. Still it's easy to get influenced by Lift's art style. :)
 ## Prototypes
 
 1. Abduction Proto With Flixel, by Alvaro Cavalcanti:
-  - [Source-code]()
-  - [Playable version]()
+  - [Source-code](https://github.com/alvarocavalcanti/abduction-proto-flixel)
+  - [Playable version](http://alvarocavalcanti.github.io/abduction-proto-flixel/game.html)
 
 ## Implemented Games
 
