@@ -2,7 +2,7 @@
 
 ## Key Thought
 
-Well, the inspiration for this was Pixar's [Lifted](https://en.wikipedia.org/wiki/Lifted_(2006_film)), an animated short, in which a visibly inapt alien tries to abduct a sleeping human under.
+Well, the inspiration for this was Pixar's [Lifted](https://en.wikipedia.org/wiki/Lifted_(2006_film)), an animated short, in which a visibly inapt alien tries to abduct a sleeping human.
 
 (It's a great short, go watch it now!)
 
