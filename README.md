@@ -31,6 +31,6 @@ If you need any guidance, here are some awesome links:
 ## Ideas So Far
 
 1. [Abduction Academy](ABDUCTION_ACADEMY.md)
-2. [Paranambuci](PARANAMBUCO.md)
+2. [Paranambuco](PARANAMBUCO.md)
 
 #### License: [CC0 1.0 Universal](LICENSE)
